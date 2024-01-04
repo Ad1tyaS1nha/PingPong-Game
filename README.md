@@ -1,2 +1,2 @@
 "# PingPong-Game" 
-A game made by using OpenCV.
+A game made by using OpenCV & python.
